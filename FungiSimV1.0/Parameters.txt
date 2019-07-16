@@ -1,0 +1,18 @@
+Total amount of amoeba
+1000
+Maximum fungi per amoeba in parallel
+7
+Median expulsion time (in minutes)
+52   
+Median acidic positive time (in minutes)
+26
+Total process time to consider (in minutes)
+300
+Phagocytosis rate (in percentage per hour)
+63
+Show detailed time development of acidic amoebas (1=yes, 0=no)
+1
+Write results to screen or file (1=screen, 0=file)
+0
+Filename for output of results (choose any Filename.txt)
+AnalysisResult.txt

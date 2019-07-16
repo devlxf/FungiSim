@@ -1,0 +1,2 @@
+install MinGW
+g++ FungiSim.cpp fileIO.cpp amoeba.cpp
